@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object id="CategoryRepository" name="CategoryRepository"
+      type="odec.Category.DAL.CategoryRepository, odec.Category.DAL">
+  </object>
+</objects>
